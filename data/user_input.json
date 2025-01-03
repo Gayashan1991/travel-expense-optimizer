@@ -1,0 +1,20 @@
+{
+    "destination": "Paris",
+    "travel_dates": {"start": "2025-06-01", "end": "2025-06-10"},
+    "group_size": 2,
+    "total_budget": 3000,
+    "category_budgets": {
+        "flights": 1000,
+        "accommodation": 1000,
+        "food": 300,
+        "activities": 500
+    },
+    "accommodation_type": "hotel",
+    "transport_mode": "flight",
+    "food_budget_per_day": 50,
+    "activities": ["museums", "sightseeing", "local tours"],
+    "currency": "USD",
+    "exchange_rate": 1.1,
+    "flexible_dates": true,
+    "emergency_fund": 200
+}
