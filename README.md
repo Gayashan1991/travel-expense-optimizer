@@ -1,5 +1,3 @@
-Here’s a comprehensive `README.md` file tailored for your GitHub repository. This will guide users through setting up, running, and understanding your project.
-
 ---
 
 # Travel Expense Refiner
